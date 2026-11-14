@@ -1,4 +1,3 @@
-# sam-link
-🛜Internet🛜service🛜porivater🛜
-<script src="https://gist.github.com/sam-link-net/
+# sam-link.net
+🛜Internet🛜service🛜porivater🛜darshana
 https://sam-link-net.tiiny.site
